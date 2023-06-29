@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](REPOURL)
+  - 
 - <b>Python</b>
-  - [Keylogger](REPOURL)
+  - [Log Parsers]([REPOURL](https://github.com/nigelamoss/log_parsers))
 
 <h2> 🤳 Connect with me:</h2>
 
