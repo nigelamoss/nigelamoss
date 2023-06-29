@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - 
+
+  
 - <b>Python</b>
   - [Log Parsers]([REPOURL](https://github.com/nigelamoss/log_parsers))
 
