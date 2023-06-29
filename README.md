@@ -6,7 +6,7 @@
 
   
 - <b>Python</b>
-  - [Log Parsers]([REPOURL](https://github.com/nigelamoss/log_parsers))
+  - [Log Parsers](https://github.com/nigelamoss/log_parsers)
 
 <h2> 🤳 Connect with me:</h2>
 
