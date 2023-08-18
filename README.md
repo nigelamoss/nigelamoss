@@ -6,7 +6,7 @@
   - [Creating a live SOC/Honeynet in Azure](https://github.com/nigelamoss/Azure-SOC).
 - <b>Python</b>
   - [Basic and Advanced Log Parsers](https://github.com/nigelamoss/log_parsers)
-  - [Phishing Campain Code](https://github.com/nigelamoss/get_phished_script)
+  - [Phishing Campaign Code](https://github.com/nigelamoss/get_phished_script)
   - [Blackeye Parser](https://github.com/nigelamoss/blackeye_parser)
 
 <h2> 🤳 Connect with me:</h2>
