@@ -5,9 +5,12 @@
 - <b>Azure / Cloud Projects </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/nigelamoss/Azure-SOC).
 - <b>Python</b>
+  - [Basic Keylogger](https://github.com/nigelamoss/Basic-Keylogger)
   - [Basic and Advanced Log Parsers](https://github.com/nigelamoss/log_parsers)
   - [Phishing Campaign Code](https://github.com/nigelamoss/get_phished_script)
   - [Blackeye Parser](https://github.com/nigelamoss/blackeye_parser)
+- <b>Youtube :tv: </b>
+  - [Phishing Campaign Simulation](https://www.youtube.com/watch?v=NuIrxRtyFdA)
 
 <h2> 🤳 Connect with me:</h2>
 
