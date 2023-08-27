@@ -7,8 +7,8 @@
 - <b>Python</b>
   - [Basic Keylogger](https://github.com/nigelamoss/Basic-Keylogger)
   - [Basic and Advanced Log Parsers](https://github.com/nigelamoss/log_parsers)
-  - [Phishing Campaign Code](https://github.com/nigelamoss/get_phished_script)
-  - [Blackeye Parser](https://github.com/nigelamoss/blackeye_parser)
+  - [Phishing Campaign Simulation Code](https://github.com/nigelamoss/get_phished_script)
+    
 - <b>Youtube :tv: </b>
   - [Phishing Campaign Simulation](https://www.youtube.com/watch?v=NuIrxRtyFdA)
 
