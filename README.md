@@ -1,7 +1,5 @@
-<h1>Hi, I'm Nigel! <br/><a href="https://github.com/nigelamoss">Programmer</a>, <a href="https://www.linkedin.com/in/nigel-a-moss/">Cybersecurity Professional</a>, <a 
-                                                                                                                                                                    
-<h2>👨‍💻 Cybersecurity Projects</h2>
-
+<h1>Hi, I'm Nigel! Passionate Cybersecurity Professional</a> 👨‍💻 
+                                                                
 - <b>Azure / Cloud Projects </b>
   - [Creating a live SOC/Honeynet in Azure](https://github.com/nigelamoss/Azure-SOC).
 - <b>Python</b>
