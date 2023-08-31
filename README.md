@@ -1,7 +1,12 @@
 ## Hi, I'm Nigel! Passionate Cybersecurity Professional 👨‍💻 
                                                                 
 - <b>Azure / Cloud Projects </b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/nigelamoss/Azure-SOC).
+  - [Creating a live SOC/Honeynet in Azure](https://github.com/nigelamoss/Azure-SOC)
+ 
+- <b>Qualys Vulnerability Management Projects </b>
+  - [Running Scans and Remediating Vulnerabilities](https://github.com/nigelamoss/Qualys-Vuln-Management)
+ 
+  
 - <b>Python</b>
   - [Basic Keylogger](https://github.com/nigelamoss/Basic-Keylogger)
   - [Basic and Advanced Log Parsers](https://github.com/nigelamoss/log_parsers)
