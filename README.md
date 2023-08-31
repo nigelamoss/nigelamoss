@@ -7,7 +7,7 @@
   - [Running Scans and Remediating Vulnerabilities](https://github.com/nigelamoss/Qualys-Vuln-Management)
  
   
-- <b>Python</b>
+- <b>Python Projects </b>
   - [Basic Keylogger](https://github.com/nigelamoss/Basic-Keylogger)
   - [Basic and Advanced Log Parsers](https://github.com/nigelamoss/log_parsers)
   - [Phishing Campaign Simulation Code](https://github.com/nigelamoss/phishing-campaign)
