@@ -10,7 +10,7 @@
   - [Phishing Campaign Simulation Code](https://github.com/nigelamoss/phishing-campaign)
     
 - <b>Youtube :tv: </b>
-  - [Phishing Campaign Simulation](https://www.youtube.com/watch?v=NuIrxRtyFdA)
+  - [Phishing Campaign Simulation Video](https://www.youtube.com/watch?v=NuIrxRtyFdA)
 
 <h2> 🤳 Connect with me:</h2>
 
